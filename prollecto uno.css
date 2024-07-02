@@ -7,9 +7,9 @@
     justify-content:space-between;
     width: 300px;
     height: 300px;
-    border: 10px solid rgb(126, 7, 7);
+    border: 10px solid #F55536;
     box-shadow: 2px 2px 8px 4px #d3d3d3d1;
-    background-color: #635c5c;
+    background-color: #f0e7d6;
     font-family: sans-serif;
     float: left;
     margin: 70px;
@@ -22,10 +22,10 @@
     padding: 30px 30px 0 30px;
   }
   .cuerpo{
-    width: 200px;
+    width: 100%;
   }
   .pie{
-    background: #494a4b;
+    background: #FF773D;
     border-radius:0 0 150px 150px;
     padding: 10px;
     text-align:center;
@@ -49,13 +49,23 @@
   margin-left: 20%;
 
 }
+
 body{ 
-  background-color: rgb(107, 39, 37);
+  background-color: #e4a643;
 }
+
 .cuerpouno{ 
+  width: 100%;
   height: 170px; 
 }
 
+.inicio{
+    justify-content: center;
+}
+
+.menu2{
+    justify-content: center;
+}
 .res {
   width: 950px;
 }
